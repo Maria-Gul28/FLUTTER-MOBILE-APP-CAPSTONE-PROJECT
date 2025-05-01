@@ -1,9 +1,10 @@
 # habit_tracker
 
-A new Flutter project.
-## 🌐 Live Preview
-[Click here to view the live app](https://glorious-telegram-69gg9gvvp79rcrgjx-3000.app.github.dev/)
+## Live Site
 
+You can view the app live here:
+
+[View the app](https://maria-gul28.github.io/FLUTTER-MOBILE-APP-CAPSTONE-PROJECT/)
 
 ## Getting Started
 
